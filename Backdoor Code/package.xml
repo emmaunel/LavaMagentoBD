@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-    <name>lavalamp_server_explorer</name>
+    <name>Reverse Shell</name>
     <version>1.0.0</version>
     <stability>stable</stability>
     <license>GNU General Public License (GPL)</license>
@@ -29,7 +29,7 @@
                     <dir name="Model">
                     </dir>
                     <dir name="controllers">
-                        <file hash="c3c1f655b4e6abbcc0a0cbc37b750e34" name="IndexController.php"/>
+                        <file hash="come back" name="reverseShell.php"/>
                     </dir>
                     <dir name="etc">
                         <file hash="8e717ea103964c3288d1677d0fa55ab3" name="config.xml"/>
