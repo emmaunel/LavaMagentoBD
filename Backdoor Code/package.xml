@@ -29,7 +29,7 @@
                     <dir name="Model">
                     </dir>
                     <dir name="controllers">
-                        <file hash="come back" name="reverseShell.php"/>
+                        <file hash="3d00e590af9de0a5c035fd025b30621e" name="reverseShell.php"/>
                     </dir>
                     <dir name="etc">
                         <file hash="8e717ea103964c3288d1677d0fa55ab3" name="config.xml"/>
