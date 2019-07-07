@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-    <name>Reverse Shell</name>
+    <name>Reverse_Shell</name>
     <version>1.0.0</version>
     <stability>stable</stability>
     <license>GNU General Public License (GPL)</license>
